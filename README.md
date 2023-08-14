@@ -18,7 +18,7 @@ This project demonstrates object detection using YOLOv8 (You Only Look Once vers
 python detect_objects.py --image path/to/your/image.jpg
 
 The script will detect objects in the image and display the image with bounding boxes around the detected objects.
-
+![Landing Pad](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtT77Beg--3EYVZ0Q7v813R4yCexDvb8LZyWbUpBpvVvhUsXHSourtwK1JNkuUMYG9Qw&usqp=CAU)
 ## Customization
 
 You can modify the `detect_objects.py` script to work with videos, webcam streams, or other image sources. You can also adjust YOLOv8 parameters and object confidence thresholds based on your specific use case.
